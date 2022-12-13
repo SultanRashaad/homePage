@@ -27,7 +27,8 @@ hr{
     border-top-style: dotted;
     border-top-width: 8px;
     border-top-color: grey;
-    margin-top: 150px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     width: 8%;
 }
 
@@ -106,8 +107,19 @@ h3{
 .contact-me-para{
     padding-bottom: 20px;
 }
+.para-middle-container{
+    width: 60%;
+    margin: 0 auto;
+    line-height: 2;
+}
+.skills{
+    background-color: #EAF6F6;
+    padding:50px 0 50px 0;
+}
 
-
+.mySkill-heading{
+    margin-bottom: 20px;
+}
 .skill-row{
     width: 50%;
     margin:100px auto;
